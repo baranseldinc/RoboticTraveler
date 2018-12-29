@@ -1,0 +1,7 @@
+C:\ANCKA\RoboticTraveler\RoboticTraveler\bin\Debug\RoboticTraveler.exe.config
+C:\ANCKA\RoboticTraveler\RoboticTraveler\bin\Debug\RoboticTraveler.exe
+C:\ANCKA\RoboticTraveler\RoboticTraveler\bin\Debug\RoboticTraveler.pdb
+C:\ANCKA\RoboticTraveler\RoboticTraveler\obj\Debug\RoboticTraveler.csprojAssemblyReference.cache
+C:\ANCKA\RoboticTraveler\RoboticTraveler\obj\Debug\RoboticTraveler.csproj.CoreCompileInputs.cache
+C:\ANCKA\RoboticTraveler\RoboticTraveler\obj\Debug\RoboticTraveler.exe
+C:\ANCKA\RoboticTraveler\RoboticTraveler\obj\Debug\RoboticTraveler.pdb
